@@ -1,0 +1,4 @@
+pip install PySimpleGUI
+pip install gTTS
+apt-get install libsox-fmt-mp3
+apt-get install sox
